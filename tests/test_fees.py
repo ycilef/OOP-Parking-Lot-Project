@@ -1,4 +1,4 @@
-# Author: [Your Name] (module: fees)
+# Author: Ana Lynica B. Ferolino (module: fees)
 """Tests for the fees module, using fakes instead of teammates' classes."""
 
 import unittest
