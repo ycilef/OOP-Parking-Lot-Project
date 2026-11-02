@@ -1,6 +1,5 @@
 # Author: James Ryan Cagas (module: ticket)
 
-# Author: <Your Classmate's Name> (module: slot)
 """Slot module for the Parking Lot Management System.
 
 Depends only on the shared contracts; it never imports a concrete
