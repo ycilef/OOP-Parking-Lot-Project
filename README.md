@@ -95,7 +95,13 @@ Run the demonstration program: python main.py
 
 The program demonstrates a realistic parking lot scenario using all five modules. It includes vehicle creation, parking slot assignment, ticket creation, fee calculation, and vehicle release. It also demonstrates at least one invalid operation and handles the resulting business-rule exception.
 
-Run all unit tests: python -m unittest discover tests -v
+Run all unit tests: 
+
+python -m unittest discover tests -v
+
+or
+
+python -m unittest discover tests
 
 The tests are organized in the tests/ folder, with a separate test file for each module.
 
